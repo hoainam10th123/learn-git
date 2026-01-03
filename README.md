@@ -34,7 +34,7 @@ git remote -v (lien ket giua repo local PC va repo remote tren github)
 git remote add origin https://github.com/hoainam10th123/learn-git.git
 
 git push  ==> dua commit tu local repo len remote repo github:
-git push -u origin master
+git push -u origin master ==> chi chay lan dau
 
 git branch
 
